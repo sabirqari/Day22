@@ -7,7 +7,10 @@ public class DemoDay2 {
 		System.out.println("Sabir");
 		
 		
-		
+		int a = 22;
+		int b = 11;
+		result = (a + b );
+		System.out.println("result");
 		
 	}
 }
