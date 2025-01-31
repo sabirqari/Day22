@@ -9,8 +9,8 @@ public class DemoDay2 {
 		
 		int a = 22;
 		int b = 11;
-		result = (a + b );
-		System.out.println("result");
+		
+		System.out.println(a+b);
 		
 	}
 }
