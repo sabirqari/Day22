@@ -26,4 +26,12 @@ public class DemoDay2 {
 
 			// i love java 
 	}
+		
+		public void add2(int a , int b) {
+			System.out.println(a + b);
+		
+			System.out.println("Sabir");
+
+			// i love java 
+	}
 }
