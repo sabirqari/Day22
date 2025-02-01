@@ -23,5 +23,7 @@ public class DemoDay2 {
 			System.out.println(a + b);
 		
 			System.out.println("Sabir");
+
+			// i love java 
 	}
 }
